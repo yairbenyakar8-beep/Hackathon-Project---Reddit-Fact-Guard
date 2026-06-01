@@ -21,8 +21,6 @@ Built during a 24-hour hackathon using [**Kiro**](https://kiro.dev) — an agent
 
 ---
 
----
-
 ## 🔬 Analysis Pipeline (5 Signals)
 
 ### 1. LLM Text Analysis (Groq / Llama 3.1)
